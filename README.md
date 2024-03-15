@@ -1,0 +1,1 @@
+# qa_quru_phyton_10_2
