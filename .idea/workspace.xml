@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3750129a-1aab-44d8-9eb1-dd8029f237c6" name="Changes" comment="добавил срочку из Pychram">
-      <changelist_data name="dntsnthng" email="162707563+dntsnthng@users.noreply.github.com" />
-    </list>
+    <list default="true" id="3750129a-1aab-44d8-9eb1-dd8029f237c6" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,12 @@
       <list>
         <option value="dntsnthng &lt;162707563+dntsnthng@users.noreply.github.com&gt;" />
       </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -35,9 +39,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2diql9Z9vriA7g1ZTTvmXTL7Fms" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Admin/Desktop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710501394777</updated>
       <workItem from="1710501395978" duration="1606000" />
+      <workItem from="1710503175144" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="добавил срочку из Pychram">
       <option name="closed" value="true" />
@@ -90,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710502717603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <option name="closed" value="true" />
+      <created>1710503257437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710503257437</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавил новую строчку" />
     <MESSAGE value="добавил срочку из Pychram" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил срочку из Pychram" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
 </project>
